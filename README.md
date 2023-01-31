@@ -1,4 +1,4 @@
-### Hi 👋, I'm Harold
+### Hi 👋, I'm Harold - I get excited and make things...
 
 <picture>
 <source 
@@ -11,3 +11,5 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=harold&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harold&langs_count=10&hide=c)](https://github.com/anuraghazra/github-readme-stats)
